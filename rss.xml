@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Cuisine Africaine Facile</title>
+  <link>https://cuisineafricainefacile.com</link>
+  <description>Recettes africaines authentiques, faciles à préparer chez vous.</description>
+  <language>fr</language>
+  
+    <item>
+      <title>Poulet Yassa Sénégalais en 30 Minutes</title>
+      <link>https://cuisineafricainefacile.com/poulet-yassa-senegalais/</link>
+      <description>Poulet Yassa sénégalais: poulet mariné au citron et oignons caramélisés. Prêt en 30 minutes.</description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/poulet-yassa-senegalais/</guid>
+    </item>
+    <item>
+      <title>Mafé au Poulet (Sauce Arachide)</title>
+      <link>https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/</link>
+      <description>Mafé au Poulet (Sauce Arachide). Le mafé est un ragoût à base de pâte d'arachide, originaire du Mali et du Sénégal. Le poulet mijote </description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/</guid>
+    </item>
+    <item>
+      <title>Alloco (Bananes Plantain Frites)</title>
+      <link>https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/</link>
+      <description>Alloco (Bananes Plantain Frites). L'alloco est un plat de rue incontournable en Côte d'Ivoire : des bananes plantain mûres frites jusq</description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/</guid>
+    </item>
+    <item>
+      <title>Thiéboudienne (Riz au Poisson Sénégalais)</title>
+      <link>https://cuisineafricainefacile.com/thieboudienne-riz-poisson/</link>
+      <description>Thiéboudienne (Riz au Poisson Sénégalais). Le thiéboudienne est le plat national du Sénégal : du riz cuit dans une sauce tomate riche avec du p</description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/thieboudienne-riz-poisson/</guid>
+    </item>
+    <item>
+      <title>Attiéké avec Poisson Grillé</title>
+      <link>https://cuisineafricainefacile.com/attieke-poisson-grille/</link>
+      <description>Attiéké avec Poisson Grillé. L'attiéké est le couscous de manioc ivoirien, servi avec du poisson grillé assaisonné. Un repas comp</description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/attieke-poisson-grille/</guid>
+    </item>
+    <item>
+      <title>Tajine de Poulet aux Olives et Citron Confit</title>
+      <link>https://cuisineafricainefacile.com/tajine-poulet-olives-citron/</link>
+      <description>Tajine de Poulet aux Olives et Citron Confit. Un classique de la cuisine marocaine : poulet mijoté lentement avec des olives et du citron confit. </description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/tajine-poulet-olives-citron/</guid>
+    </item>
+    <item>
+      <title>Ndolé Camerounais</title>
+      <link>https://cuisineafricainefacile.com/ndole-camerounais/</link>
+      <description>Ndolé Camerounais. Le ndolé est le plat national du Cameroun : une sauce épaisse à base de feuilles amères, d'arachides</description>
+      <pubDate>2026-04-06</pubDate>
+      <guid>https://cuisineafricainefacile.com/ndole-camerounais/</guid>
+    </item>
+</channel>
+</rss>

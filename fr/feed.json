@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Cuisine Africaine Facile",
-  "home_page_url": "https://cuisineafricainefacile.com/",
-  "feed_url": "https://cuisineafricainefacile.com/feed.json",
+  "home_page_url": "https://cuisineafricainefacile.com/fr/",
+  "feed_url": "https://cuisineafricainefacile.com/fr/feed.json",
   "description": "Recettes africaines authentiques, faciles à préparer chez vous.",
   "language": "fr",
   "items": [
     {
-      "id": "https://cuisineafricainefacile.com/poulet-yassa-senegalais/",
-      "url": "https://cuisineafricainefacile.com/poulet-yassa-senegalais/",
+      "id": "https://cuisineafricainefacile.com/fr/poulet-yassa-senegalais/",
+      "url": "https://cuisineafricainefacile.com/fr/poulet-yassa-senegalais/",
       "title": "Poulet Yassa Sénégalais en 30 Minutes",
       "content_text": "Poulet Yassa sénégalais: poulet mariné au citron et oignons caramélisés. Prêt en 30 minutes.",
       "image": "https://cuisineafricainefacile.com/images/poulet-yassa-senegalais.webp",
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/",
-      "url": "https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/",
+      "id": "https://cuisineafricainefacile.com/fr/mafe-poulet-sauce-arachide/",
+      "url": "https://cuisineafricainefacile.com/fr/mafe-poulet-sauce-arachide/",
       "title": "Mafé au Poulet (Sauce Arachide)",
       "content_text": "Mafé au Poulet (Sauce Arachide). Le mafé est un ragoût à base de pâte d'arachide, originaire du Mali et du Sénégal. Le poulet mijote ",
       "image": "https://cuisineafricainefacile.com/images/mafe-poulet-sauce-arachide.webp",
@@ -33,8 +33,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/",
-      "url": "https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/",
+      "id": "https://cuisineafricainefacile.com/fr/alloco-bananes-plantain-frites/",
+      "url": "https://cuisineafricainefacile.com/fr/alloco-bananes-plantain-frites/",
       "title": "Alloco (Bananes Plantain Frites)",
       "content_text": "Alloco (Bananes Plantain Frites). L'alloco est un plat de rue incontournable en Côte d'Ivoire : des bananes plantain mûres frites jusq",
       "image": "https://cuisineafricainefacile.com/images/alloco-bananes-plantain-frites.webp",
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/thieboudienne-riz-poisson/",
-      "url": "https://cuisineafricainefacile.com/thieboudienne-riz-poisson/",
+      "id": "https://cuisineafricainefacile.com/fr/thieboudienne-riz-poisson/",
+      "url": "https://cuisineafricainefacile.com/fr/thieboudienne-riz-poisson/",
       "title": "Thiéboudienne (Riz au Poisson Sénégalais)",
       "content_text": "Thiéboudienne (Riz au Poisson Sénégalais). Le thiéboudienne est le plat national du Sénégal : du riz cuit dans une sauce tomate riche avec du p",
       "image": "https://cuisineafricainefacile.com/images/thieboudienne-riz-poisson.webp",
@@ -60,8 +60,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/attieke-poisson-grille/",
-      "url": "https://cuisineafricainefacile.com/attieke-poisson-grille/",
+      "id": "https://cuisineafricainefacile.com/fr/attieke-poisson-grille/",
+      "url": "https://cuisineafricainefacile.com/fr/attieke-poisson-grille/",
       "title": "Attiéké avec Poisson Grillé",
       "content_text": "Attiéké avec Poisson Grillé. L'attiéké est le couscous de manioc ivoirien, servi avec du poisson grillé assaisonné. Un repas comp",
       "image": "https://cuisineafricainefacile.com/images/attieke-poisson-grille.webp",
@@ -73,8 +73,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/tajine-poulet-olives-citron/",
-      "url": "https://cuisineafricainefacile.com/tajine-poulet-olives-citron/",
+      "id": "https://cuisineafricainefacile.com/fr/tajine-poulet-olives-citron/",
+      "url": "https://cuisineafricainefacile.com/fr/tajine-poulet-olives-citron/",
       "title": "Tajine de Poulet aux Olives et Citron Confit",
       "content_text": "Tajine de Poulet aux Olives et Citron Confit. Un classique de la cuisine marocaine : poulet mijoté lentement avec des olives et du citron confit. ",
       "image": "https://cuisineafricainefacile.com/images/tajine-poulet-olives-citron.webp",
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/ndole-camerounais/",
-      "url": "https://cuisineafricainefacile.com/ndole-camerounais/",
+      "id": "https://cuisineafricainefacile.com/fr/ndole-camerounais/",
+      "url": "https://cuisineafricainefacile.com/fr/ndole-camerounais/",
       "title": "Ndolé Camerounais",
       "content_text": "Ndolé Camerounais. Le ndolé est le plat national du Cameroun : une sauce épaisse à base de feuilles amères, d'arachides",
       "image": "https://cuisineafricainefacile.com/images/ndole-camerounais.webp",
@@ -99,8 +99,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/ceebu-jen-blanc-riz-poisson/",
-      "url": "https://cuisineafricainefacile.com/ceebu-jen-blanc-riz-poisson/",
+      "id": "https://cuisineafricainefacile.com/fr/ceebu-jen-blanc-riz-poisson/",
+      "url": "https://cuisineafricainefacile.com/fr/ceebu-jen-blanc-riz-poisson/",
       "title": "Ceebu Jen Blanc (Riz au Poisson Sénégalais)",
       "content_text": "Recette authentique du ceebu jen blanc sénégalais : riz parfumé au bouillon de poisson et légumes frais. Un plat familial savoureux.",
       "image": "https://cuisineafricainefacile.com/images/ceebu-jen-blanc-riz-poisson.webp",
@@ -114,8 +114,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/dibi-agneau-grille-senegalais/",
-      "url": "https://cuisineafricainefacile.com/dibi-agneau-grille-senegalais/",
+      "id": "https://cuisineafricainefacile.com/fr/dibi-agneau-grille-senegalais/",
+      "url": "https://cuisineafricainefacile.com/fr/dibi-agneau-grille-senegalais/",
       "title": "Dibi (Agneau Grillé Sénégalais)",
       "content_text": "Recette du dibi sénégalais : agneau grillé épicé servi avec oignons et moutarde. Un classique de la cuisine de rue de Dakar.",
       "image": "https://cuisineafricainefacile.com/images/dibi-agneau-grille-senegalais.webp",
@@ -129,8 +129,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/soupe-kandia-gombo/",
-      "url": "https://cuisineafricainefacile.com/soupe-kandia-gombo/",
+      "id": "https://cuisineafricainefacile.com/fr/soupe-kandia-gombo/",
+      "url": "https://cuisineafricainefacile.com/fr/soupe-kandia-gombo/",
       "title": "Soupe Kandia (Soupe de Gombo Sénégalaise)",
       "content_text": "Soupe kandia sénégalaise : sauce au gombo, poisson fumé et huile de palme. Un plat onctueux et savoureux à servir avec du riz.",
       "image": "https://cuisineafricainefacile.com/images/soupe-kandia-gombo.webp",
@@ -144,120 +144,120 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/kedjenou-poulet/",
-      "url": "https://cuisineafricainefacile.com/kedjenou-poulet/",
+      "id": "https://cuisineafricainefacile.com/fr/kedjenou-poulet/",
+      "url": "https://cuisineafricainefacile.com/fr/kedjenou-poulet/",
       "title": "Kedjenou de Poulet",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/kedjenou-poulet.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "kedjenou poulet",
         "ragoût ivoirien"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/tiep-bou-dien-rouge/",
-      "url": "https://cuisineafricainefacile.com/tiep-bou-dien-rouge/",
+      "id": "https://cuisineafricainefacile.com/fr/tiep-bou-dien-rouge/",
+      "url": "https://cuisineafricainefacile.com/fr/tiep-bou-dien-rouge/",
       "title": "Tiep Bou Dien Rouge",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/tiep-bou-dien-rouge.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "tiep bou dien rouge",
         "riz au poisson rouge"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/sauce-graine-palmiste/",
-      "url": "https://cuisineafricainefacile.com/sauce-graine-palmiste/",
+      "id": "https://cuisineafricainefacile.com/fr/sauce-graine-palmiste/",
+      "url": "https://cuisineafricainefacile.com/fr/sauce-graine-palmiste/",
       "title": "Sauce Graine de Palmiste",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/sauce-graine-palmiste.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "sauce graine",
         "sauce palmiste camerounaise"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/poulet-braise-camerounais/",
-      "url": "https://cuisineafricainefacile.com/poulet-braise-camerounais/",
+      "id": "https://cuisineafricainefacile.com/fr/poulet-braise-camerounais/",
+      "url": "https://cuisineafricainefacile.com/fr/poulet-braise-camerounais/",
       "title": "Poulet Braisé Camerounais",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/poulet-braise-camerounais.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "poulet braisé camerounais",
         "grillades camerounaises"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/couscous-senegalais-mouton/",
-      "url": "https://cuisineafricainefacile.com/couscous-senegalais-mouton/",
+      "id": "https://cuisineafricainefacile.com/fr/couscous-senegalais-mouton/",
+      "url": "https://cuisineafricainefacile.com/fr/couscous-senegalais-mouton/",
       "title": "Couscous Sénégalais au Mouton",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/couscous-senegalais-mouton.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "couscous sénégalais",
         "thiéré"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/riz-gras-senegalais/",
-      "url": "https://cuisineafricainefacile.com/riz-gras-senegalais/",
+      "id": "https://cuisineafricainefacile.com/fr/riz-gras-senegalais/",
+      "url": "https://cuisineafricainefacile.com/fr/riz-gras-senegalais/",
       "title": "Riz Gras Sénégalais",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/riz-gras-senegalais.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "riz gras",
         "riz sénégalais"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/soupe-egusi/",
-      "url": "https://cuisineafricainefacile.com/soupe-egusi/",
+      "id": "https://cuisineafricainefacile.com/fr/soupe-egusi/",
+      "url": "https://cuisineafricainefacile.com/fr/soupe-egusi/",
       "title": "Soupe d'Egusi",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/soupe-egusi.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "soupe egusi",
         "soupe graines de melon"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/brochettes-suya/",
-      "url": "https://cuisineafricainefacile.com/brochettes-suya/",
+      "id": "https://cuisineafricainefacile.com/fr/brochettes-suya/",
+      "url": "https://cuisineafricainefacile.com/fr/brochettes-suya/",
       "title": "Brochettes Suya",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/brochettes-suya.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "brochettes suya",
         "suya africain"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/riz-wolof/",
-      "url": "https://cuisineafricainefacile.com/riz-wolof/",
+      "id": "https://cuisineafricainefacile.com/fr/riz-wolof/",
+      "url": "https://cuisineafricainefacile.com/fr/riz-wolof/",
       "title": "Riz Wolof",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/riz-wolof.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "riz wolof",
         "jollof rice sénégalais"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/sauce-arachide-legumes/",
-      "url": "https://cuisineafricainefacile.com/sauce-arachide-legumes/",
+      "id": "https://cuisineafricainefacile.com/fr/sauce-arachide-legumes/",
+      "url": "https://cuisineafricainefacile.com/fr/sauce-arachide-legumes/",
       "title": "Sauce Arachide aux Légumes",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/sauce-arachide-legumes.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "sauce arachide",
         "sauce cacahuète végétarienne"

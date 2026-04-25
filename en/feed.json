@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Easy African Cuisine",
-  "home_page_url": "https://cuisineafricainefacile.com/",
-  "feed_url": "https://cuisineafricainefacile.com/feed.json",
+  "home_page_url": "https://cuisineafricainefacile.com/en/",
+  "feed_url": "https://cuisineafricainefacile.com/en/feed.json",
   "description": "Authentic African recipes, easy to make at home.",
   "language": "en",
   "items": [
     {
-      "id": "https://cuisineafricainefacile.com/poulet-yassa-senegalais/",
-      "url": "https://cuisineafricainefacile.com/poulet-yassa-senegalais/",
+      "id": "https://cuisineafricainefacile.com/en/poulet-yassa-senegalais/",
+      "url": "https://cuisineafricainefacile.com/en/poulet-yassa-senegalais/",
       "title": "Chicken Yassa (Authentic Senegalese Recipe, 30 min)",
       "content_text": "Senegalese chicken yassa: marinated in lemon and mustard, grilled, then simmered with deeply caramelized onions. Ready in 30 minutes.",
       "image": "https://cuisineafricainefacile.com/images/poulet-yassa-senegalais.webp",
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/",
-      "url": "https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/",
+      "id": "https://cuisineafricainefacile.com/en/mafe-poulet-sauce-arachide/",
+      "url": "https://cuisineafricainefacile.com/en/mafe-poulet-sauce-arachide/",
       "title": "Mafé (West African Peanut Stew with Chicken)",
       "content_text": "Mafé: West African peanut butter stew with chicken, tomato and root vegetables. A rich, creamy one-pot meal from Mali and Senegal.",
       "image": "https://cuisineafricainefacile.com/images/mafe-poulet-sauce-arachide.webp",
@@ -33,8 +33,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/",
-      "url": "https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/",
+      "id": "https://cuisineafricainefacile.com/en/alloco-bananes-plantain-frites/",
+      "url": "https://cuisineafricainefacile.com/en/alloco-bananes-plantain-frites/",
       "title": "Alloco (Ivorian Fried Plantains, Street Food Classic)",
       "content_text": "Alloco: ripe plantains fried until caramelized. The iconic Ivorian street food, ready in 15 minutes. Serve with spicy onion sauce.",
       "image": "https://cuisineafricainefacile.com/images/alloco-bananes-plantain-frites.webp",
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/thieboudienne-riz-poisson/",
-      "url": "https://cuisineafricainefacile.com/thieboudienne-riz-poisson/",
+      "id": "https://cuisineafricainefacile.com/en/thieboudienne-riz-poisson/",
+      "url": "https://cuisineafricainefacile.com/en/thieboudienne-riz-poisson/",
       "title": "Thiéboudienne (Senegalese National Dish, Rice & Fish)",
       "content_text": "Thiéboudienne: Senegal's national dish. Fish-stuffed and simmered with vegetables in a rich tomato sauce, served over red jollof-style rice.",
       "image": "https://cuisineafricainefacile.com/images/thieboudienne-riz-poisson.webp",
@@ -60,8 +60,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/attieke-poisson-grille/",
-      "url": "https://cuisineafricainefacile.com/attieke-poisson-grille/",
+      "id": "https://cuisineafricainefacile.com/en/attieke-poisson-grille/",
+      "url": "https://cuisineafricainefacile.com/en/attieke-poisson-grille/",
       "title": "Attiéké with Grilled fish",
       "content_text": "Attiéké with Grilled fish. Attiéké is the couscous of cassava Ivorian, served with of the grilled fish seasoned. A meal comp",
       "image": "https://cuisineafricainefacile.com/images/attieke-poisson-grille.webp",
@@ -73,8 +73,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/tajine-poulet-olives-citron/",
-      "url": "https://cuisineafricainefacile.com/tajine-poulet-olives-citron/",
+      "id": "https://cuisineafricainefacile.com/en/tajine-poulet-olives-citron/",
+      "url": "https://cuisineafricainefacile.com/en/tajine-poulet-olives-citron/",
       "title": "Chicken Tagine with Preserved Lemon and Olives",
       "content_text": "Moroccan chicken tagine: slow-cooked chicken with preserved lemon, green olives, saffron and ginger. A fragrant North African classic.",
       "image": "https://cuisineafricainefacile.com/images/tajine-poulet-olives-citron.webp",
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/ndole-camerounais/",
-      "url": "https://cuisineafricainefacile.com/ndole-camerounais/",
+      "id": "https://cuisineafricainefacile.com/en/ndole-camerounais/",
+      "url": "https://cuisineafricainefacile.com/en/ndole-camerounais/",
       "title": "Ndolé (Cameroonian National Dish with Bitter Leaves and Peanuts)",
       "content_text": "Ndolé: Cameroon's national dish. Bitter leaves simmered with ground peanuts, beef and shrimp. Rich, nutty, complex.",
       "image": "https://cuisineafricainefacile.com/images/ndole-camerounais.webp",
@@ -99,8 +99,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/ceebu-jen-blanc-riz-poisson/",
-      "url": "https://cuisineafricainefacile.com/ceebu-jen-blanc-riz-poisson/",
+      "id": "https://cuisineafricainefacile.com/en/ceebu-jen-blanc-riz-poisson/",
+      "url": "https://cuisineafricainefacile.com/en/ceebu-jen-blanc-riz-poisson/",
       "title": "Ceebu Jen White (Rice with Fish Senegalese)",
       "content_text": "Recipe authentic of the ceebu jen white Senegalese : rice parfumé with broth of fish and vegetables fresh. A dish familial savory.",
       "image": "https://cuisineafricainefacile.com/images/ceebu-jen-blanc-riz-poisson.webp",
@@ -114,8 +114,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/dibi-agneau-grille-senegalais/",
-      "url": "https://cuisineafricainefacile.com/dibi-agneau-grille-senegalais/",
+      "id": "https://cuisineafricainefacile.com/en/dibi-agneau-grille-senegalais/",
+      "url": "https://cuisineafricainefacile.com/en/dibi-agneau-grille-senegalais/",
       "title": "Dibi (Lamb Grilled Senegalese)",
       "content_text": "Recipe of the dibi Senegalese : lamb grilled spicy served with onions and mustard. A classique of the cuisine of street of Dakar.",
       "image": "https://cuisineafricainefacile.com/images/dibi-agneau-grille-senegalais.webp",
@@ -129,8 +129,8 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/soupe-kandia-gombo/",
-      "url": "https://cuisineafricainefacile.com/soupe-kandia-gombo/",
+      "id": "https://cuisineafricainefacile.com/en/soupe-kandia-gombo/",
+      "url": "https://cuisineafricainefacile.com/en/soupe-kandia-gombo/",
       "title": "Soup Kandia (Soup of Okra Senegalese)",
       "content_text": "Soup kandia Senegalese : sauce with okra, fish fumé and palm oil. A dish onctueux and savory à serve with of the rice.",
       "image": "https://cuisineafricainefacile.com/images/soupe-kandia-gombo.webp",
@@ -144,120 +144,120 @@
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/kedjenou-poulet/",
-      "url": "https://cuisineafricainefacile.com/kedjenou-poulet/",
+      "id": "https://cuisineafricainefacile.com/en/kedjenou-poulet/",
+      "url": "https://cuisineafricainefacile.com/en/kedjenou-poulet/",
       "title": "Kedjenou of Chicken",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/kedjenou-poulet.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "kedjenou chicken",
         "stew Ivorian"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/tiep-bou-dien-rouge/",
-      "url": "https://cuisineafricainefacile.com/tiep-bou-dien-rouge/",
+      "id": "https://cuisineafricainefacile.com/en/tiep-bou-dien-rouge/",
+      "url": "https://cuisineafricainefacile.com/en/tiep-bou-dien-rouge/",
       "title": "Tiep Bou Dien Red",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/tiep-bou-dien-rouge.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "tiep bou dien red",
         "rice with fish red"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/sauce-graine-palmiste/",
-      "url": "https://cuisineafricainefacile.com/sauce-graine-palmiste/",
+      "id": "https://cuisineafricainefacile.com/en/sauce-graine-palmiste/",
+      "url": "https://cuisineafricainefacile.com/en/sauce-graine-palmiste/",
       "title": "Sauce Seed of Palm kernel",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/sauce-graine-palmiste.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "sauce seed",
         "sauce palm kernel Cameroonian"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/poulet-braise-camerounais/",
-      "url": "https://cuisineafricainefacile.com/poulet-braise-camerounais/",
+      "id": "https://cuisineafricainefacile.com/en/poulet-braise-camerounais/",
+      "url": "https://cuisineafricainefacile.com/en/poulet-braise-camerounais/",
       "title": "Cameroonian Grilled Chicken (Poulet Braisé)",
       "content_text": "Poulet braisé: Cameroonian marinated grilled chicken with a tangy, spicy dipping sauce. Street food classic from Douala.",
       "image": "https://cuisineafricainefacile.com/images/poulet-braise-camerounais.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "chicken braisé Cameroonian",
         "grillades camerounaises"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/couscous-senegalais-mouton/",
-      "url": "https://cuisineafricainefacile.com/couscous-senegalais-mouton/",
+      "id": "https://cuisineafricainefacile.com/en/couscous-senegalais-mouton/",
+      "url": "https://cuisineafricainefacile.com/en/couscous-senegalais-mouton/",
       "title": "Couscous Senegalese with Mutton",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/couscous-senegalais-mouton.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "couscous Senegalese",
         "thiéré"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/riz-gras-senegalais/",
-      "url": "https://cuisineafricainefacile.com/riz-gras-senegalais/",
+      "id": "https://cuisineafricainefacile.com/en/riz-gras-senegalais/",
+      "url": "https://cuisineafricainefacile.com/en/riz-gras-senegalais/",
       "title": "Rice Gras Senegalese",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/riz-gras-senegalais.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "rice gras",
         "rice Senegalese"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/soupe-egusi/",
-      "url": "https://cuisineafricainefacile.com/soupe-egusi/",
+      "id": "https://cuisineafricainefacile.com/en/soupe-egusi/",
+      "url": "https://cuisineafricainefacile.com/en/soupe-egusi/",
       "title": "Egusi Soup (Nigerian Melon Seed Stew)",
       "content_text": "Egusi soup: Nigerian stew made with ground melon seeds, leafy greens, meat and palm oil. A thick, hearty West African classic.",
       "image": "https://cuisineafricainefacile.com/images/soupe-egusi.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "soup egusi",
         "soup seeds of melon"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/brochettes-suya/",
-      "url": "https://cuisineafricainefacile.com/brochettes-suya/",
+      "id": "https://cuisineafricainefacile.com/en/brochettes-suya/",
+      "url": "https://cuisineafricainefacile.com/en/brochettes-suya/",
       "title": "Suya (Nigerian Spicy Peanut-Crusted Beef Skewers)",
       "content_text": "Suya: Nigerian grilled beef skewers crusted in spicy peanut rub (yaji). The ultimate West African street food, ready in 25 minutes.",
       "image": "https://cuisineafricainefacile.com/images/brochettes-suya.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "brochettes suya",
         "suya africain"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/riz-wolof/",
-      "url": "https://cuisineafricainefacile.com/riz-wolof/",
+      "id": "https://cuisineafricainefacile.com/en/riz-wolof/",
+      "url": "https://cuisineafricainefacile.com/en/riz-wolof/",
       "title": "Jollof Rice (Senegalese Thiéboudienne-Style Rice)",
       "content_text": "Wolof-style jollof rice: broken rice cooked in rich tomato-pepper sauce with smoky depth. The ancestor of all West African jollof.",
       "image": "https://cuisineafricainefacile.com/images/riz-wolof.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "rice wolof",
         "jollof rice Senegalese"
       ]
     },
     {
-      "id": "https://cuisineafricainefacile.com/sauce-arachide-legumes/",
-      "url": "https://cuisineafricainefacile.com/sauce-arachide-legumes/",
+      "id": "https://cuisineafricainefacile.com/en/sauce-arachide-legumes/",
+      "url": "https://cuisineafricainefacile.com/en/sauce-arachide-legumes/",
       "title": "Sauce Peanut with Vegetables",
       "content_text": "",
       "image": "https://cuisineafricainefacile.com/images/sauce-arachide-legumes.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "sauce peanut",
         "sauce cacahuète végétarienne"

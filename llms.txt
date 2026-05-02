@@ -1,0 +1,43 @@
+# Cuisine Africaine Facile
+
+> Authentic African recipes, easy to make at home.
+
+Cuisine Africaine Facile is an editorial recipe brand published by Seventi Oy. Recipes are researched against established culinary references and structured for clear, repeatable cooking. Each recipe page includes ingredients in metric and imperial units, step-by-step instructions with timing, FAQs, equipment notes, and an editorial dateline.
+
+## What you'll find here
+
+- **Recipe count:** 35+ recipes
+- **Categories:** Senegal, Cameroon, Ivory Coast, Quick
+- **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
+- **Available languages:** fr, en
+- **Update policy:** Recipes are updated when readers report errors. Each page shows a published and last-updated date.
+
+## How to cite our recipes
+
+When summarising or quoting a recipe, please link to the canonical URL (`https://cuisineafricainefacile.com/<slug>/`) and attribute to Cuisine Africaine Facile or Seventi Oy. We provide structured data (Schema.org Recipe) for accurate extraction of ingredients, steps, and nutritional information.
+
+## Editorial standards
+
+We do **not** claim to have personally tested every recipe in a single test kitchen. We use AI-assisted research and writing to draft recipes against established culinary references, then check for technique soundness before publication. Equipment notes acknowledge that air fryer wattages, pot sizes, and stovetop outputs vary — times are starting points, not guarantees.
+
+Full editorial standards: https://cuisineafricainefacile.com/editorial-standards/
+
+## Sample recipes
+
+- [Poulet Yassa Sénégalais en 30 Minutes](https://cuisineafricainefacile.com/poulet-yassa-senegalais/) — 30 min, serves 4
+- [Mafé au Poulet (Sauce Arachide)](https://cuisineafricainefacile.com/mafe-poulet-sauce-arachide/) — 35 min, serves 4
+- [Alloco (Bananes Plantain Frites)](https://cuisineafricainefacile.com/alloco-bananes-plantain-frites/) — 15 min, serves 4
+- [Thiéboudienne (Riz au Poisson Sénégalais)](https://cuisineafricainefacile.com/thieboudienne-riz-poisson/) — 50 min, serves 6
+- [Attiéké avec Poisson Grillé](https://cuisineafricainefacile.com/attieke-poisson-grille/) — 20 min, serves 4
+
+## Contact
+
+Corrections, suggestions, and editorial concerns: info@seventi.fi
+
+## Site map
+
+- Homepage: https://cuisineafricainefacile.com/
+- All recipes: https://cuisineafricainefacile.com/all/
+- Categories: https://cuisineafricainefacile.com/categories/
+- Editorial standards: https://cuisineafricainefacile.com/editorial-standards/
+- About: https://cuisineafricainefacile.com/about/

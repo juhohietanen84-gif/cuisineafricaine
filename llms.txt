@@ -6,7 +6,7 @@ Cuisine Africaine Facile is an editorial recipe brand published by Seventi Oy. R
 
 ## What you'll find here
 
-- **Recipe count:** 35+ recipes
+- **Recipe count:** 41+ recipes
 - **Categories:** Senegal, Cameroon, Ivory Coast, Quick
 - **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
 - **Available languages:** fr, en
